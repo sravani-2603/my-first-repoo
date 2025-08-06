@@ -1,0 +1,4 @@
+NAME:Sravani Simma
+COURSE:Bsc-Computer Science
+LEARNED ABOUT GITHUB:Github is a platform where people can
+store,share,and work together on code.
